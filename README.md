@@ -20,4 +20,5 @@ Here's a screenshot example:
 
 ![Screenshot 2024-08-12 9 46 38 PM](https://github.com/user-attachments/assets/c24cceb8-db46-4b2f-9bbc-40141f8fccd2)
 
+> The project was still in development when the screenshot was taken.
 
