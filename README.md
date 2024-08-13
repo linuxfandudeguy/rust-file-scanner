@@ -6,4 +6,7 @@
 This is my first rust project yay :D
 
 
-<img src="https://skillicons.dev/icons?i=rust" alt="rust" height="40"/>
+<img src="https://skillicons.dev/icons?i=rust,cargo" alt="rust" height="40"/>
+
+
+This was made using
