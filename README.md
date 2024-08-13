@@ -24,5 +24,12 @@ Here's a screenshot example:
 
 If it finds files it will return the files with their file path and if not it won't do it, and it also displays a counter for the amount of files scanned.
 
+The `Cargo.toml` file has the dependencies needed:
+
+```toml
+[dependencies]
+walkdir = "2.3.2"
+colored = "2.0.0"
+```
 
 
