@@ -22,3 +22,7 @@ Here's a screenshot example:
 
 > The project was still in development when the screenshot was taken.
 
+If it finds files it will return the files with their file path and if not it won't do it, and it also displays a counter for the amount of files scanned.
+
+
+
