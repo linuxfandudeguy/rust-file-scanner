@@ -32,9 +32,16 @@ walkdir = "2.3.2"
 colored = "2.0.0"
 ```
 
-Once you have downloaded necessary files you can run:
+Once you have downloaded necessary files/packages you can run:
 
 ```bash
 cargo build
 ```
+Then to scan a directory you can run:
+
+```bash
+cargo run ./
+```
+
+
 
