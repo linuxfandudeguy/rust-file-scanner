@@ -6,8 +6,9 @@
 
 This is my first rust project yay :D
 
-
+<div align="center">
 <img src="https://skillicons.dev/icons?i=rust" alt="rust" height="40"/>
+</div>
 
 ------------------------------------------------------------------------
 
