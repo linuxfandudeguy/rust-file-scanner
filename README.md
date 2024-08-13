@@ -4,3 +4,6 @@
 
 
 This is my first rust project yay :D
+
+
+<img src="https://skillicons.dev/icons?i=rust" alt="rust" height="40"/>
