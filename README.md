@@ -11,4 +11,12 @@ This is my first rust project yay :D
 
 ------------------------------------------------------------------------
 
-This was made using **Cargo** and **Rust**
+This was made using **Cargo** and **Rust**.
+
+This rust application scans for files in a directory provided in command line arguments.
+
+Here's a screenshot example:
+
+![Screenshot 2024-08-12 9 46 38 PM](https://github.com/user-attachments/assets/c24cceb8-db46-4b2f-9bbc-40141f8fccd2)
+
+
