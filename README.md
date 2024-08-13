@@ -14,7 +14,7 @@ This is my first rust project yay :D
 
 This was made using **Cargo** and **Rust**.
 
-This rust application scans for files in a directory provided in command line arguments.
+This rust application scans for corrupted/empty files in a directory provided in command line arguments.
 
 Here's a screenshot example:
 
