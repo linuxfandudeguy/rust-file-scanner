@@ -43,5 +43,7 @@ Then to scan a directory you can run:
 cargo run ./
 ```
 
+ anyone who's about to complain about I didn't give installation instructions for cargo too bad
+
 
 
